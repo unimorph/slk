@@ -1,0 +1,2 @@
+# slk
+Slovak
